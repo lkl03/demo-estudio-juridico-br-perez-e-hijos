@@ -1,2 +1,7 @@
-# demo-estudio-juridico-br-perez-e-hijos
-Demo web para Estudio Juridico BR PEREZ E HIJOS — diseñada por eterlab.
+# Estudio Juridico BR PEREZ E HIJOS
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
